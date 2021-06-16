@@ -12,11 +12,15 @@ pip install -r requirements.txt
 ```
 ## Results
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/h8PuR1Vn-RI)
+If you're interested by the results it produces, you can just watch the (very) short video with the link below.
 
+[![Watch the video](https://img.youtube.com/vi/h8PuR1Vn-RI/maxresdefault.jpg)](https://youtu.be/h8PuR1Vn-RI)
 
 
 ## Usage
 
-We provide a Jupiter Notebook that explains how to use it and tell every piece of information that will help to run it.
+We provide a Jupiter Notebook that explains how to use it and tell every piece of information that will help to run it. We'll right everything bellow so that you find every thing here but I recommand to look directly at the code and notebook that you will find in the folder *code*.
+
+
+
 
