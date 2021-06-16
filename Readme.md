@@ -26,8 +26,4 @@ If you're interested by the results it produces, you can just watch the (very) s
 
 ## Usage
 
-We provide a Jupiter Notebook that explains how to use it and tell every piece of information that will help to run it. We'll right everything bellow so that you find every thing here but I recommand to look directly at the code and notebook that you will find in the folder *code*.
-
-
-
-
+We provide a Jupiter Notebook that explains how to use it and tell every piece of information that will help to run it. If you feel interested, I strongly recommand to look directly at the notebook that you will find in the folder ***code*** as **Example_notebook.ipynb** and at the source code in python files.
