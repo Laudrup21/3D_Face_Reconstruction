@@ -3,14 +3,18 @@ A Python programme using the Deep Learning librairies Pytorch and Pytorch3D that
 
 ## Installation
 
-There is two options, first you use this code locally, second you use Google Colab. The second one will be comfortable to use once Pytorch3D is imported but his importation is long (20min). If you want to use it locally, it is **necessary** to have an efficient GPU.
- 
+There is two options, first you use this code locally, second you use Google Colab. The second one will be comfortable to use once Pytorch3D is imported but his importation is long (20min). If you want to use it locally, it is **necessary** to have an efficient GPU.  
+
 ***If you run it locally :***
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the requirements to run python programmes.
 
 ```bash
 pip install -r requirements.txt
 ```
+
+In order to run our functions and models, you'll need to download these files : 
+ 1) [model2019_fullHead.h5](https://faces.dmi.unibas.ch/bfm/bfm2019.html)
+ 2) [shape_predictor_68_face_landmarks.dat](https://github.com/davisking/dlib-models/blob/master/shape_predictor_68_face_landmarks.dat.bz2)
 
 
 ## Results
