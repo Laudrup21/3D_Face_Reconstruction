@@ -10,7 +10,13 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the req
 ```bash
 pip install -r requirements.txt
 ```
+## Results
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/h8PuR1Vn-RI)
+
+
 
 ## Usage
 
 We provide a Jupiter Notebook that explains how to use it and tell every piece of information that will help to run it.
+
