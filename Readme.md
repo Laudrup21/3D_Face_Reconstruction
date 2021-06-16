@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 If you're interested by the results it produces, you can just watch the (very) short video with the link below.
 
-[![Watch the video](https://img.youtube.com/vi/h8PuR1Vn-RI/maxresdefault.jpg)](https://youtu.be/h8PuR1Vn-RI)
+[![Watch the video](https://img.youtube.com/vi/h8PuR1Vn-RI/hqdefault.jpg)](https://youtu.be/h8PuR1Vn-RI)
 
 
 ## Usage
