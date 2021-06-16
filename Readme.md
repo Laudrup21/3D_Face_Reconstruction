@@ -4,12 +4,15 @@ A Python programme using the Deep Learning librairies Pytorch and Pytorch3D that
 ## Installation
 
 There is two options, first you use this code locally, second you use Google Colab. The second one will be comfortable to use once Pytorch3D is imported but his importation is long (20min). If you want to use it locally, it is **necessary** to have an efficient GPU.
+ 
 ***If you run it locally :***
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the requirements to run the python programme.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the requirements to run python programmes.
 
 ```bash
 pip install -r requirements.txt
 ```
+
+
 ## Results
 
 If you're interested by the results it produces, you can just watch the (very) short video with the link below.
