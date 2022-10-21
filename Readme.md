@@ -1,6 +1,19 @@
 # 3D face reconstruction
 A Python programme using the Deep Learning librairies Pytorch and Pytorch3D that allows us to reconstruct any kind of face just by providing an image of someone.
 
+## PSC INF 08 : MAXIME BONNIN, PAUL LAUDRUP, SICHENG MAO, YUTONG MENG, VERONIKA SHILOVA
+The estimation of 3D facial surface and other intrinsic facial components from a single image is a very important problem at the intersection of machine vision and computer vision.
+This is a very important problem at the intersection of computer vision and machine learning.
+This is a very important problem at the intersection of computer vision and machine learning with innumerable applications (e.g. facial recognition, face editing, virtual reality). '
+For this reason, the computer graphics and computer vision communities have devoted considerable effort to the development of computer vision.
+For this reason, the computer graphics and computer vision communities have devoted long-standing efforts to the creation of computerised tools for the reconstruction, tracking and analysis of images.
+The computer graphics and computer vision communities have therefore devoted long-standing efforts to the creation of computerised tools for the reconstruction, tracking and analysis of human faces based on visual inputs. In the last few years, the
+In the last few years, rapid progress has been made, leading to new and powerful algorithms that achieve a better understanding of the human face.
+Motivated by these applications and the diversity of this field, we have implemented an algorithm using a gradient descent.
+We have developed an algorithm using gradient descent from a cost function to reconstruct a 3D face.
+truire un visage 3D. We first created a simple model that reconstructs the face from a photo.
+We have improved it.
+
 ## Installation
 
 There is two options, first you use this code locally, second you use Google Colab. The second one will be comfortable to use once Pytorch3D is imported but his importation is long (20min). If you want to use it locally, it is **necessary** to have an efficient GPU.  
