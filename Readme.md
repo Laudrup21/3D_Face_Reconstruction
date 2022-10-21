@@ -1,4 +1,4 @@
-# 3D face reconstruction
+# PSC : 3D face reconstruction
 A Python programme using the Deep Learning librairies Pytorch and Pytorch3D that allows us to reconstruct any kind of face just by providing an image of someone.
 
 ## PSC INF 08 : MAXIME BONNIN, PAUL LAUDRUP, SICHENG MAO, YUTONG MENG, VERONIKA SHILOVA
